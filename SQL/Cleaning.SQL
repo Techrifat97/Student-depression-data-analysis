@@ -142,3 +142,6 @@ SET
     Depression = 'No'
 WHERE
     Depression = 1
+
+
+SELECT * FROM student_data;
