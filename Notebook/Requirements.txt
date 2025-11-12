@@ -1,0 +1,8 @@
+Imports Needed:
+#pandas 
+#sqlalchemy 
+#pyodbc 
+#dotenv
+
+For ODBC:
+brew install msodbcsql18 mssql-tools18
